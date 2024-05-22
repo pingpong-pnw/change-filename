@@ -48,7 +48,7 @@ func main() {
 
 func displayInstruction() {
 	fmt.Println("-----------------------------------HOW TO USE-----------------------------------")
-	fmt.Println("INPUT file path in format> C:/pathA/pathB/... (for windows; \\ is support too)")
+	fmt.Println("INPUT file path in format> C:/pathA/pathB/... (for windows; \\ is supported too)")
 	fmt.Println("INPUT file replace format> -Copy")
 	fmt.Println("INPUT file replace to    > -TEST (No input if you want to remove)")
 	fmt.Println("For example, File-Copy.pdf -> File-TEST.pdf")
